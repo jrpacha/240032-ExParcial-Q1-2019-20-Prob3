@@ -1,4 +1,4 @@
-# 240032P3_ExParcial_Q1_2019-20
+# 240032-ExParcial-Q1-2019-20-Prob3
 
 ## Examen parcial Curs 2019-20 Q1. Problema 3
 
